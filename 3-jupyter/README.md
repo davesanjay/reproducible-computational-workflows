@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davesanjay/reproducible-computational-workflows/HEAD?filepath=3-jupyter%2F3D_visualization.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/davesanjay/reproducible-computational-workflows/HEAD?filepath=3-jupyter%2F3D_visualization.ipynb
 # Jupyter
 
 For the demonstration we'll be using JupyterLab, a browser-based computational environment that marries full support for jupyter notebooks with a host of handy features, such as a file browser, console, and support for multiple notebooks and text files in tabs. If you appreciate the interactivity of Jupyter notebooks but want some of the powerful features normally found in an IDE, we recommend giving JupyterLab a try.
